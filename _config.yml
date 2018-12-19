@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: XFST demo
+subtitle: > # ignore newlines until "description:"
+    A simple demonstration of morphological analysis with xfst/lexc
+description: > # ignore newlines until "baseurl:"
+    A simple demonstration of morphological analysis with xfst/lexc
+    <a href="http://www.sfs.uni-tuebingen.de">SfS</a>,
+    <a href="http://uni-tuebingen.de/">University of Tübingen</a>
+baseurl: ""
+url: "https://dsacl3-2018.github.io/xfst-demo"
+github_username:  dsacl3-2018
+encoding: utf-8
+future: true
+
+# Build settings
+markdown: kramdown
