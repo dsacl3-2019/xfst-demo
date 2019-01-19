@@ -146,7 +146,7 @@ double comma `,,`:
 - The first one rewrites the symbol `<SG>` in the analysis layer as
     empty string on the surface. The symbol `0` in xfst means ε.
 - The second rule rewrites the symbol `<PL>` as _s_ if it occurs
-    before  any symbol other than _x_. The backslash charcter in xfst
+    before  any symbol other than _x_. The backslash character in xfst
     negates the character class.
 - The last rule replaces `<PL>` with _es_ if it occurs after an _x_.
 
@@ -224,7 +224,7 @@ will be very helpful.
 
 ### Exercise
 
-Extend the anlyzer above to correctly analyze singular/plural formso of 
+Extend the analyzer above to correctly analyze singular/plural forms of 
 
 - _mouse_ (plural _mice_)
 - _finch_ (plural _finches_)
