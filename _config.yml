@@ -11,8 +11,6 @@ subtitle: > # ignore newlines until "description:"
     A simple demonstration of morphological analysis with xfst/lexc
 description: > # ignore newlines until "baseurl:"
     A simple demonstration of morphological analysis with xfst/lexc
-    <a href="http://www.sfs.uni-tuebingen.de">SfS</a>,
-    <a href="http://uni-tuebingen.de/">University of Tübingen</a>
 baseurl: ""
 url: "https://dsacl3-2018.github.io/xfst-demo"
 github_username:  dsacl3-2018
