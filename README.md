@@ -187,8 +187,6 @@ hfst[1]: define generator
 Defined 'generator'
 hfst[0]: regex generator.i;
 ? bytes. 11 states, 15 arcs, ? paths
-hfst[1]: apply
-Command apply is not recognised.
 hfst[1]: apply down
 apply down> fox
 fox<SG>
