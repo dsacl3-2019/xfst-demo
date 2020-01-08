@@ -1,8 +1,7 @@
 # A simple demonstration of finite-state morphological analysis with Xerox formalisms
 
-This is page lists approximate steps taken during the in-class demonstration
-on 2018-12-17
-(this follows a slightly different approach than one taken in the class).
+This is a very short tutorial on using Xerox lexc/xfst languages
+for defining a morphological analyzer.
 
 We demonstrate the construction of
 a typical finite-state morphological analyzer
@@ -19,7 +18,7 @@ you can use one of the free/open source implementations.
 which is part of [HFST](https://hfst.github.io/)
 - [Foma](https://fomafst.github.io/).
 
-To replicate the steps above, you may want to install one of these
+To replicate the steps below, you may want to install one of these
 implementations (follow the links for the installation instructions).
 
 ## Xfst and Lexc
